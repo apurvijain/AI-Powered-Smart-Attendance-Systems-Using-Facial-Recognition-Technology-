@@ -337,3 +337,4 @@ For issues or questions regarding this project, please refer to the documentatio
 **Created by**: Manisha Priya
 **Date**: 2024
 **Version**: 1.0.0
+# AI-Powered-Smart-Attendance-Systems-Using-Facial-Recognition-Technology-
